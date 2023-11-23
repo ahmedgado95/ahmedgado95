@@ -14,7 +14,7 @@ ahmedgado95@github
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Swift, SwiftUI
-🚩 Interested in IOS Developer Application development
+🚩 Interested in Application development
 ```
 <hr>
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
